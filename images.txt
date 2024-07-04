@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-registry:2.8.1
+#registry:2.8.1
+sonatype/nexus3:3.68.1
