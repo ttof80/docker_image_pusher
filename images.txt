@@ -12,4 +12,5 @@
 #node:18.20.3-bullseye-slim
 #node:18.20.3-alpine3.19
 #openjdk:17-jdk-alpine
-sameersbn/bind:9.16.1-20200524
+#sameersbn/bind:9.16.1-20200524
+node:18.20.3-bullseye
