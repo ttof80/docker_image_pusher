@@ -42,6 +42,9 @@ jobs:
     - name: Restart docker
       run: sudo service docker restart
 
+    - name: Remove all images
+      run: docker images | sed 1d | awk '{print "docker rmi "$3}' | /bin/sh
+
     - name: Free up disk space complete
       run: |
         echo "Free up disk space complete"
