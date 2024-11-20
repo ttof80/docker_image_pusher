@@ -15,4 +15,13 @@
 #sameersbn/bind:9.16.1-20200524
 #node:18.20.3-bullseye
 #mysql:8.0.40-bookworm
-mysql:8.4.3-oraclelinux9
+#mysql:8.4.3-oraclelinux9
+node:18.20.5-bookworm-slim
+node:18.20.5-bookworm
+node:20.18.0-bookworm-slim
+node:20.18.0-bookworm
+node:22.11.0-bookworm-slim
+node:22.11.0-bookworm
+node:18.20.5-alpine3.20
+node:20.18.0-alpine3.20
+node:22.11.0-alpine3.20
