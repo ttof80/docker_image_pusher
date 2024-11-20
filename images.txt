@@ -14,5 +14,5 @@
 #openjdk:17-jdk-alpine
 #sameersbn/bind:9.16.1-20200524
 #node:18.20.3-bullseye
-mysql:8.0.40-bookworm
-#mysql:8.4.3-oraclelinux9
+#mysql:8.0.40-bookworm
+mysql:8.4.3-oraclelinux9
