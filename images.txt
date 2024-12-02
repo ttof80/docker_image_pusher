@@ -5,24 +5,4 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # registry:2.8.1
-# amazoncorretto:8u432-alpine3.20
-# amazoncorretto:8u432-al2023
-# amazoncorretto:11.0.25-alpine3.20
-# amazoncorretto:11.0.25-al2023
-# amazoncorretto:17.0.13-alpine3.20
-# amazoncorretto:17.0.13-al2023
-python:3.13.0-bookworm
-python:3.13.0-slim-bookworm
-python:3.13.0-alpine3.20
-python:3.12.7-bookworm
-python:3.12.7-slim-bookworm
-python:3.12.7-alpine3.20
-python:3.11.10-bookworm
-python:3.11.10-slim-bookworm
-python:3.11.10-alpine3.20
-python:3.10.15-bookworm
-python:3.10.15-slim-bookworm
-python:3.10.15-alpine3.20
-python:3.9.20-bookworm
-python:3.9.20-slim-bookworm
-python:3.9.20-alpine3.20
+python:3.8.7-slim-buster
