@@ -5,5 +5,4 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # registry:2.8.1
-redis:6.2.16-alpine3.20
-redis:7.4.1-alpine3.20
+jc21/registry-ui:2.0.2
