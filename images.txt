@@ -5,4 +5,4 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # registry:2.8.1
-python:3.8.7-slim-buster
+jenkins/jenkins:2.488-jdk17
