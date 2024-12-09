@@ -6,3 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # registry:2.8.1
 nacos/nacos-server:v2.2.3-slim
+emqx/emqx:4.2.14
