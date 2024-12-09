@@ -5,5 +5,5 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # registry:2.8.1
-jc21/registry-ui:2.0.2
-bitnami/pushgateway:1.10.0-debian-12-r5
+bitnami/elasticsearch:7.17.26-debian-12-r0
+
