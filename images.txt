@@ -8,3 +8,4 @@
 nacos/nacos-server:v2.2.3-slim
 emqx/emqx:4.2.14
 timescale/timescaledb:2.11.0-pg14
+timescale/timescaledb:2.18.1-pg16
