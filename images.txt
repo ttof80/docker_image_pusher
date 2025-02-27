@@ -7,3 +7,4 @@
 # registry:2.8.1
 nacos/nacos-server:v2.2.3-slim
 emqx/emqx:4.2.14
+timescale/timescaledb:2.11.0-pg14
