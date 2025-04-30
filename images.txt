@@ -5,4 +5,4 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # registry:2.8.1
-elasticsearch:8.18.0
+elasticsearch:8.17.5
