@@ -6,4 +6,11 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # registry:2.8.1
 nacos/nacos-server:v2.5.1-slim
+alpine:3.22.0
+alpine:3.21.3
+golang:1.24.4-alpine3.22
+golang:1.24.4-bullseye
+golang:1.23.10-bullseye
+goalng:1.23.10-alpine3.22
+goalng:1.23.10-alpine3.21
 
