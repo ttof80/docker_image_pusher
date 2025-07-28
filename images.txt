@@ -13,4 +13,10 @@ golang:1.24.4-bullseye
 golang:1.23.10-bullseye
 goalng:1.23.10-alpine3.22
 goalng:1.23.10-alpine3.21
+python:3.10.18-slim-bookworm
+python:3.10.18-alpine3.22
+python:3.11.13-slim-bookworm
+python:3.11.13-alpine3.22
+python:3.12.11-slim-bookworm
+python:3.12.11-alpine3.22
 
